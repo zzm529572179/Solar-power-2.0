@@ -2,7 +2,8 @@
 
 ### Solar power 2.0 Tech Support
 
-![未标题-1](https://user-images.githubusercontent.com/128197935/227827916-2b9a0def-2b14-435f-9d08-bbde77be4e44.png)
+![image](https://github.com/zzm529572179/Solar-power-2.0/assets/128197935/8fa00907-a8e8-4e92-913a-6e4573c02b9b)
+
 
 ### v1.2
 1.新增历史数据显示（设备需此功能）
