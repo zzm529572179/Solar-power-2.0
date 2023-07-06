@@ -7,6 +7,7 @@
 
 ### v1.2
 1.新增历史数据显示（设备需此功能）
+
 2.新增 逆控一体机 设备
 
 1. Add historical data display (device requires this function)
