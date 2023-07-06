@@ -4,6 +4,18 @@
 
 ![未标题-1](https://user-images.githubusercontent.com/128197935/227827916-2b9a0def-2b14-435f-9d08-bbde77be4e44.png)
 
+### v1.2
+1.新增历史数据显示（设备需此功能）
+2.新增 逆控一体机 设备
+
+1. Add historical data display (device requires this function)
+2. Add the reverse control appliance
+
+### v1.1:
+1.新增Wifi设备支持
+
+1. Added Wifi device support
+
 ### v1.0:  
 1.数据刷新频率高，响应快  
 2.支持老版BT18蓝牙设备,老版蓝牙设备无需配对  
