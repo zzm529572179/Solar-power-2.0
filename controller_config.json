@@ -1,1 +1,25 @@
-{\n  "controller_config": [\n    {\n      "title": {\n        "CN": "5串铁锂测试多语言",\n        "EN": "5 LiFePO4",\n        "DE": "5 LiFePO4",\n        "ES": "5 LiFePO4",\n        "FR": "5 LiFePO4",\n        "IT": "5 LiFePO4"\n      }\n    }\n  ]\n}
+{
+  "controllers": [
+    {
+      "name": "Controller 1",
+      "description": "This is the first controller."
+    },
+    {
+      "name": "Controller 2",
+      "description": "This is the second controller."
+    },
+    {
+      "name": "Controller 3",
+      "description": "This is the third controller."
+    },
+    {
+      "name": "Controller 4",
+      "description": "This is the fourth controller.",
+      "translations": {
+        "EN": "Fourth controller description in English.",
+        "ES": "Descripción del cuarto controlador en español.",
+        "IT": "Descrizione del quarto controller in italiano."
+      }
+    }
+  ]
+}
