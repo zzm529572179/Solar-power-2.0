@@ -12,7 +12,7 @@
         "AR": "4 LiFePO4",
         "PT": "4 LiFePO4"
       },
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "version": "V1.0.0",
       "system_voltage": 1,
@@ -23,6 +23,7 @@
       "low_voltage_reconnect": 12.8,
       "li_const_voltage": 14.2,
       "li_recovery_charge_voltage": 13.8,
+      "battery_capacity": 50,
       "li_end_charge_current": 1.0
     },
     {
@@ -37,7 +38,7 @@
         "AR": "8 LiFePO4",
         "PT": "8 LiFePO4"
       },
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "version": "V1.0.0",
       "system_voltage": 2,
@@ -48,6 +49,7 @@
       "low_voltage_reconnect": 25.6,
       "li_const_voltage": 28.4,
       "li_recovery_charge_voltage": 27.6,
+      "battery_capacity": 50,
       "li_end_charge_current": 1.0
     },
     {
@@ -62,18 +64,18 @@
         "AR": "5 LiFePO4",
         "PT": "5 LiFePO4"
       },
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "version": "V1.0.0",
       "system_voltage": 1,
       "system_voltage_type": 2,
       "battery_type": 8,
       "battery_type_type": 0,
-      "battery_capacity": 50,
       "low_voltage_disconnect": 14,
       "low_voltage_reconnect": 16.0,
       "li_const_voltage": 17.8,
       "li_recovery_charge_voltage": 17.2,
+      "battery_capacity": 50,
       "li_end_charge_current": 1.0
     },
     {
@@ -88,7 +90,7 @@
         "AR": "4 LiFePO4",
         "PT": "4 LiFePO4"
       },
-      "controller_type": "VT48,XT48",
+      "controller_type": "VT48,XT48,GM48",
       "dev_model": 0,
       "version": "V1.0.0",
       "system_voltage": 1,
@@ -99,6 +101,7 @@
       "low_voltage_reconnect": 12.8,
       "li_const_voltage": 14.2,
       "li_recovery_charge_voltage": 13.8,
+      "battery_capacity": 50,
       "li_end_charge_current": 1.0
     },
     {
@@ -113,7 +116,7 @@
         "AR": "8 LiFePO4",
         "PT": "8 LiFePO4"
       },
-      "controller_type": "VT48,XT48",
+      "controller_type": "VT48,XT48,GM48",
       "dev_model": 0,
       "version": "V1.0.0",
       "system_voltage": 2,
@@ -124,6 +127,7 @@
       "low_voltage_reconnect": 25.6,
       "li_const_voltage": 28.4,
       "li_recovery_charge_voltage": 27.6,
+      "battery_capacity": 50,
       "li_end_charge_current": 1.0
     },
     {
@@ -138,18 +142,18 @@
         "AR": "5 LiFePO4",
         "PT": "5 LiFePO4"
       },
-      "controller_type": "VT48,XT48",
+      "controller_type": "VT48,XT48,GM48",
       "dev_model": 0,
       "version": "V1.0.0",
       "system_voltage": 1,
       "system_voltage_type": 0,
       "battery_type": 8,
       "battery_type_type": 0,
-      "battery_capacity": 50,
       "low_voltage_disconnect": 14,
       "low_voltage_reconnect": 16.0,
       "li_const_voltage": 17.8,
       "li_recovery_charge_voltage": 17.2,
+      "battery_capacity": 50,
       "li_end_charge_current": 1.0
     },
     {
@@ -169,8 +173,8 @@
       "dev_model": 0,
       "system_voltage": 1,
       "system_voltage_type": 2,
-      "battery_type": 0,
-      "battery_type_type": 2
+      "battery_type": 2,
+      "battery_type_type": 0
     },
     {
       "sn": "202603310005",
@@ -189,8 +193,8 @@
       "dev_model": 0,
       "system_voltage": 2,
       "system_voltage_type": 2,
-      "battery_type": 0,
-      "battery_type_type": 1
+      "battery_type": 1,
+      "battery_type_type": 0
     },
     {
       "sn": "202603310006",
@@ -209,8 +213,8 @@
       "dev_model": 0,
       "system_voltage": 2,
       "system_voltage_type": 2,
-      "battery_type": 0,
-      "battery_type_type": 2
+      "battery_type": 2,
+      "battery_type_type": 0
     },
     {
       "sn": "202603310007",
@@ -227,10 +231,10 @@
       "version": "V1.0.0",
       "controller_type": "VT24,XT24",
       "dev_model": 0,
-      "system_voltage": 1,
+      "system_voltage": 2,
       "system_voltage_type": 2,
-      "battery_type": 0,
-      "battery_type_type": 1
+      "battery_type": 1,
+      "battery_type_type": 0
     },
     {
       "sn": "202601300014",
