@@ -169,7 +169,7 @@
         "PT": "12V VRLA integrado"
       },
       "version": "V1.0.0",
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "system_voltage": 1,
       "system_voltage_type": 2,
@@ -189,7 +189,7 @@
         "PT": "12V VRLA Gel integrado"
       },
       "version": "V1.0.0",
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "system_voltage": 2,
       "system_voltage_type": 2,
@@ -209,7 +209,7 @@
         "PT": "24V VRLA integrado"
       },
       "version": "V1.0.0",
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "system_voltage": 2,
       "system_voltage_type": 2,
@@ -229,7 +229,7 @@
         "PT": "24V VRLA Gel integrado"
       },
       "version": "V1.0.0",
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "system_voltage": 2,
       "system_voltage_type": 2,
@@ -249,7 +249,7 @@
         "PT": "12V VRLA"
       },
       "version": "V1.0.0",
-      "controller_type": "VT24,XT24",
+      "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
       "system_voltage": 1,
       "system_voltage_type": 2,
