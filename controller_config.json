@@ -191,7 +191,7 @@
       "version": "V1.0.0",
       "controller_type": "VT24,XT24,GM24",
       "dev_model": 0,
-      "system_voltage": 2,
+      "system_voltage": 1,
       "system_voltage_type": 2,
       "battery_type": 1,
       "battery_type_type": 0
